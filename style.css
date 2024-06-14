@@ -1,0 +1,19 @@
+button {
+    padding: 10px 20px;
+    background-color: #ff0088;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 6px rgb(168, 97, 116, 0.8);
+}
+html {
+  height: 100%;
+  width: 100%;
+  } 
+     #demo{
+        font-family: cursive ;
+} 
+body {
+color: #00000a;
+  background-color:#ffccfb; }
